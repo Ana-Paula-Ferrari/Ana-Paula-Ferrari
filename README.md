@@ -1,4 +1,9 @@
 ### Olá, seja bem vindo! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Paula-Ferrari&shows_icons=true&theme=dracula)
+**Sobre mim**
+
+- 💼 Assitente em Desenvolvimento de Software [Monitora](https://monitora.info/app/webroot/site/)
+
+| <a href="https://github.com/Ana-Paula-Ferrari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ana-Paula-Ferrari&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ana github stats" /></a> | <a href="https://github.com/Ana-Paula-Ferrari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Paula-Ferrari&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
